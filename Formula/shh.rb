@@ -1,8 +1,8 @@
 class Shh < Formula
   desc "Radical no-comments linter for JavaScript and TypeScript"
   homepage "https://github.com/yzlaboratory/shh"
-  url "https://registry.npmjs.org/@yzlaboratory/shh/-/shh-0.1.3.tgz"
-  sha256 "ad12383b950b0e049ec73fbd9919499d5124532e529644d640867acd0780b902"
+  url "https://registry.npmjs.org/@yzlaboratory/shh/-/shh-0.1.4.tgz"
+  sha256 "e4a4d8fe19ffb9c25556a9f8b673096db35d7705c3cc2499a012100e7943cc14"
   license "MIT"
 
   depends_on "node"
